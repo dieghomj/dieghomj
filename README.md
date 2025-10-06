@@ -1,46 +1,77 @@
-## Hi there 👋. I'm Diego.
+## Hi there 👋 I'm Diego
 
-### I’m studying game programming at (Seifujohokokagakuin)清風情報工科学院 in Osaka Japan.
- -  I'm 22 years old and I'm in my first year.
- -  Love game development and programming.
- -  I'm currently studying graphics programming.
- -  Contact: [Email](mailto:diegomartj03@gmail.com)
- -  Langauges: EN\ES\JP.
-### Languages and tools
+Welcome to my GitHub profile!  
+I'm a passionate game developer and programmer currently based in Osaka, Japan.
+
+---
+
+### 🎓 About Me
+
+- 🏫 First-year student at (Seifujohokokagakuin) 清風情報工科学院, Osaka, Japan
+- 🎮 Love game development, programming, and graphics tech
+- 🖥️ Currently focused on graphics programming
+- 🌏 Languages: English, Spanish, Japanese
+- 📧 Contact: [Email](mailto:diegomartj03@gmail.com)
+
+---
+
+### 🛠️ Languages & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,git,dotnet,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,git,dotnet,html,css,js" alt="languages and tools"/>
   </a>
 </p>
 
-### Learning:
+---
+
+### 🚀 Currently Learning
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,unity,unreal,windows"/>
+    <img src="https://skillicons.dev/icons?i=godot,unity,unreal,windows" alt="learning icons"/>
   </a>
+</p>
+
+---
+<!--
+### 🏆 Projects & Achievements
+
+- **[Your Coolest Project](#)** – Short description here (update with your actual projects!)
+- **[Another Project](#)** – Description or achievement
+
+*Add links and descriptions to showcase your work!*
+
+---
+-->
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dieghomj&theme=transparent&hide_border=true&locale=en&short_numbers=true" alt="GitHub Streak"/>
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dieghomj&show_icons=true&theme=transparent" alt="GitHub Stats"/>
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieghomj&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent" alt="Top Languages"/>
 </p>
 
 <!--
-**dieghomj/dieghomj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌐 Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- [LinkedIn](#) <!-- Add your LinkedIn link if you want 
+- [Twitter/X](#) <!-- Add your Twitter/X link if you want 
+- [Personal Website](#) <!-- Add your website if you have one 
 -->
-#### Github Stats:
+<!--
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dieghomj&theme=transparent&hide_border=true&locale=en&short_numbers=true)](https://git.io/streak-stats)
+### ⚡ Fun Fact
 
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=dieghomj&show_icons=true&theme=transparent)
+> "I turn coffee into code and ideas into games!"
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dieghomj&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent)
-
+<!--
+**dieghomj/dieghomj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
