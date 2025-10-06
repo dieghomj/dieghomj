@@ -4,7 +4,7 @@
  -  I'm 22 years old and I'm in my first year.
  -  Love game development and programming.
  -  I'm currently studying graphics programming.
- -  Contact:[Email](mailto:diegomartj03@gmail.com)
+ -  Contact: [Email](mailto:diegomartj03@gmail.com)
  -  Langauges: EN\ES\JP.
 ### Languages and tools
 
