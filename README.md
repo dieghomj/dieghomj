@@ -56,6 +56,10 @@ I'm a passionate game developer and programmer currently based in Osaka, Japan.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieghomj&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent" alt="Top Languages"/>
 </p>
 
+[![Profile Views](https://komarev.com/ghpvc/?username=dieghomj&color=blueviolet&style=flat-square)](https://github.com/dieghomj)
+
+
+
 <!--
 ---
 
