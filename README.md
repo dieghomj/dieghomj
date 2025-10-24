@@ -47,7 +47,7 @@ I'm a passionate game developer and programmer currently based in Osaka, Japan.
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dieghomj&theme=transparent&hide_border=true&locale=en&short_numbers=true" alt="GitHub Streak"/>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dieghomj&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dieghomj&show_icons=true&theme=transparent" alt="GitHub Stats"/>
