@@ -29,7 +29,7 @@ I'm a passionate game developer and programmer currently based in Osaka, Japan.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,unity,unreal,windows" alt="learning icons"/>
+    <img src="https://skillicons.dev/icons?i=rust,godot,unity,unreal,windows" alt="learning icons"/>
   </a>
 </p>
 
