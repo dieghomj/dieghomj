@@ -7,7 +7,7 @@ I'm a passionate game developer and programmer currently based in Osaka, Japan.
 
 ### 🎓 About Me
 
-- 🏫 First-year student at (Seifujohokokagakuin) 清風情報工科学院, Osaka, Japan
+- 🏫 Second-year student at (Seifujohokokagakuin) 清風情報工科学院, Osaka, Japan
 - 🎮 Love game development, programming, and graphics tech
 - 🖥️ Currently focused on graphics programming
 - 🌏 Languages: English, Spanish, Japanese
