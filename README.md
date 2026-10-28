@@ -1,21 +1,48 @@
-## Hi there 👋 I'm Diego
+## こんにちは 👋 ディエゴです / Hi there 👋 I'm Diego
 
-Welcome to my GitHub profile!  
-I'm a passionate game developer and programmer currently based in Osaka, Japan.
+**🇯🇵 日本語** · [🇬🇧 English](#-english)
+
+ゲームプログラマーを目指している学生です。大阪を拠点に、DirectX 11 / C++ で自作エンジンやゲームを開発しています。
+
+### 🎓 自己紹介
+
+- 🏫 清風情報工科学院（大阪）2年生
+- 🎮 ゲーム開発、エンジン・グラフィックスプログラミングに力を入れています
+- 🧩 現在の注力分野：ECS（Entity Component System）、データ指向設計、パフォーマンス最適化
+- 🌏 言語：スペイン語（母語）、英語（TOEIC 980点）、日本語（JLPT N2、N1 挑戦中）
+- 📧 連絡先：[メール](mailto:diegomartj03@gmail.com)
+
+### 🕹️ 主な制作物
+
+- **[3D FPS「Fast Attack」](https://github.com/dieghomj/3D_FPS)**：DirectX 11 / C++ による個人制作。校内で特別賞を受賞
+- **[3D 協力パズルゲーム](https://github.com/dieghomj/next_step)**（制作中）：2人チームのリーダーとして、エンジン部分を担当（DirectX 11 / C++、Assimp、Dear ImGui）
+- **[3D タワーディフェンス](https://github.com/dieghomj/td_project)**（制作中）：自作 ECS エンジンで開発中
+- **2D サンドボックスシミュレーター**（制作中）：セルオートマトンによる粒子シミュレーション
 
 ---
 
-### 🎓 About Me
+### 🇬🇧 English
 
-- 🏫 Second-year student at (Seifujohokokagakuin) 清風情報工科学院, Osaka, Japan
-- 🎮 Love game development, programming, and graphics tech
-- 🖥️ Currently focused on graphics programming
-- 🌏 Languages: English, Spanish, Japanese
+I'm a student aiming to become a game programmer, based in Osaka, Japan. I build my own engines and games in DirectX 11 / C++.
+
+#### 🎓 About Me
+
+- 🏫 Second-year student at 清風情報工科学院 (Seifu Information Technology College), Osaka
+- 🎮 Focused on game development, engine and graphics programming
+- 🧩 Current focus: ECS (Entity Component System), data-oriented design, performance optimization
+- 🌏 Languages: Spanish (native), English (TOEIC 980), Japanese (JLPT N2, working toward N1)
 - 📧 Contact: [Email](mailto:diegomartj03@gmail.com)
 
+#### 🕹️ Projects
+
+- **[3D FPS "Fast Attack"](https://github.com/dieghomj/3D_FPS)**: solo project in DirectX 11 / C++; won a special award (特別賞) at school
+- **[3D co-op puzzle game](https://github.com/dieghomj/next_step)** (in progress): team leader of a 2-person team, responsible for the engine side (DirectX 11 / C++, Assimp, Dear ImGui)
+- **[3D tower defense](https://github.com/dieghomj/td_project)** (in progress): built on my own ECS engine
+- **2D sandbox simulator** (in progress): cellular-automata particle simulation
+
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ 使用言語・ツール / Languages & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -23,9 +50,7 @@ I'm a passionate game developer and programmer currently based in Osaka, Japan.
   </a>
 </p>
 
----
-
-### 🚀 Currently Learning
+### 🚀 学習中 / Currently Learning
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -34,16 +59,7 @@ I'm a passionate game developer and programmer currently based in Osaka, Japan.
 </p>
 
 ---
-<!--
-### 🏆 Projects & Achievements
 
-- **[Your Coolest Project](#)** – Short description here (update with your actual projects!)
-- **[Another Project](#)** – Description or achievement
-
-*Add links and descriptions to showcase your work!*
-
----
--->
 ### 📊 GitHub Stats
 
 <p align="left">
@@ -57,25 +73,3 @@ I'm a passionate game developer and programmer currently based in Osaka, Japan.
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=dieghomj&color=blueviolet&style=flat-square)](https://github.com/dieghomj)
-
-
-
-<!--
----
-
-### 🌐 Connect with Me
-
-- [LinkedIn](#) <!-- Add your LinkedIn link if you want 
-- [Twitter/X](#) <!-- Add your Twitter/X link if you want 
-- [Personal Website](#) <!-- Add your website if you have one 
--->
-<!--
----
-
-### ⚡ Fun Fact
-
-> "I turn coffee into code and ideas into games!"
-
-<!--
-**dieghomj/dieghomj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
