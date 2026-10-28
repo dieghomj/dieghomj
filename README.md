@@ -17,7 +17,7 @@
 - **[3D FPS「Fast Attack」](https://github.com/dieghomj/3D_FPS)**：DirectX 11 / C++ による個人制作。校内で特別賞を受賞
 - **[3D 協力パズルゲーム](https://github.com/dieghomj/next_step)**（制作中）：2人チームのリーダーとして、エンジン部分を担当（DirectX 11 / C++、Assimp、Dear ImGui）
 - **[3D タワーディフェンス](https://github.com/dieghomj/td_project)**（制作中）：自作 ECS エンジンで開発中
-- **2D サンドボックスシミュレーター**（制作中）：セルオートマトンによる粒子シミュレーション
+- **[2D サンドボックスシミュレーター](https://github.com/dieghomj/sand_sim)**（制作中）：セルオートマトンによる粒子シミュレーション
 
 ---
 
@@ -38,7 +38,7 @@ I'm a student aiming to become a game programmer, based in Osaka, Japan. I build
 - **[3D FPS "Fast Attack"](https://github.com/dieghomj/3D_FPS)**: solo project in DirectX 11 / C++; won a special award (特別賞) at school
 - **[3D co-op puzzle game](https://github.com/dieghomj/next_step)** (in progress): team leader of a 2-person team, responsible for the engine side (DirectX 11 / C++, Assimp, Dear ImGui)
 - **[3D tower defense](https://github.com/dieghomj/td_project)** (in progress): built on my own ECS engine
-- **2D sandbox simulator** (in progress): cellular-automata particle simulation
+- **[2D sandbox simulator](https://github.com/dieghomj/sand_sim)** (in progress): cellular-automata particle simulation
 
 ---
 
